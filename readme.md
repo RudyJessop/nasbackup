@@ -6,7 +6,7 @@
 
 
 ```
- 0 0 5,15 * * ~/backup.sh
+ 0 0 5,15 * * ~/etc/nasbackup/backup.sh
 ```
 *For every 5th and 15th day(s) within the month*
 

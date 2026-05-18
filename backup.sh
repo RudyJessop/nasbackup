@@ -16,4 +16,4 @@
 # 	 '----------------'  '----------------'  '----------------'   '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'   
 
 
-sudo dd if=/dev/nvme0n1 of=20260504back_up.img bs=4M status=progress
+sudo dd if=/dev/nvme0n1 of=~/home/rpi/External/backups/20260504back_up.img bs=4M status=progress
